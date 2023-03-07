@@ -56,7 +56,7 @@ function makeSound(key){
             tom4.play();
 
         default:
-            console.log(buttonInnerHTML);
+            console.log(key);
     }
 
 }
